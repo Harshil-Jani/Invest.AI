@@ -5,7 +5,7 @@ Well, These investing documents have so much legal jargon and with reduction in 
 
 ### Problems while reading Investment Documents
 - Confusions in understanding the language of the document.
-- AGetting distracted and having to read multiple times.
+- Getting distracted and having to read multiple times.
 - Short span of time to get the most out of the document.
 - Hidden terms which may cost a lot in the long run.
 - Hefty pages written by CA's and Lawyers with domain-specific knowledge that may not be understood by general audience. 
